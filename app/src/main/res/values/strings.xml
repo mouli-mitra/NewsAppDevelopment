@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">NewsAppDevelopment</string>
+    <string name="news_placeholder">Sample News</string>
+    <string name="general">general</string>
+    <string name="Key">a5614a5879594baab2b20610daf7ffd0</string>
+    <string name="savednews">SavedNews</string>
+
+    <string name="news_headlines">NEWS HEADLINES</string>
+    <string name="network">Please check network connection</string>
 </resources>
